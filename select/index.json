@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "ふたりごと",
+  "base_artist": "iri",
+  "createdAt": "2025-12-03T12:09:47.591974Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ふたりごと",
+      "artist": "TRUE feat. 茅原実里",
+      "has_synced": true,
+      "path": "select/01_ふたりごと_TRUE_feat._茅原実里.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ふたりごと",
+      "artist": "TRUE & 茅原実里",
+      "has_synced": true,
+      "path": "select/02_ふたりごと_TRUE_&_茅原実里.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ふたりごと feat.春茶",
+      "artist": "kobasolo",
+      "has_synced": true,
+      "path": "select/03_ふたりごと_feat.春茶_kobasolo.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ふたりごと",
+      "artist": "Kobasolo",
+      "has_synced": true,
+      "path": "select/04_ふたりごと_Kobasolo.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ふたりごと",
+      "artist": "TRUE & Minori Chihara",
+      "has_synced": true,
+      "path": "select/05_ふたりごと_TRUE_&_Minori_Chihara.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ふたりごと",
+      "artist": "TRUE",
+      "has_synced": true,
+      "path": "select/06_ふたりごと_TRUE.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ふたりごと - 一生に一度のワープVer.",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/07_ふたりごと_-_一生に一度のワープVer._RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ふたりごと",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/08_ふたりごと_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ふたりごと (一生に一度のワープVer.)",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/09_ふたりごと_(一生に一度のワープVer.)_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ふたりごと 一生に一度のワープ ver.",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/10_ふたりごと_一生に一度のワープ_ver._RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ふたりごと (一生に一度のワープVer.) - Futarigoto (Isshouni Ichido No Warp Version)",
+      "artist": "Radwimps",
+      "has_synced": true,
+      "path": "select/11_ふたりごと_(一生に一度のワープVer.)_-_Futarigoto_(Isshouni_Ichido_No_Warp_Version)_Radwimps.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ふたりごと ～一生に一度のワープver.～",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/12_ふたりごと_~一生に一度のワープver.~_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ふたりごと - Futarigoto",
+      "artist": "Radwimps",
+      "has_synced": true,
+      "path": "select/13_ふたりごと_-_Futarigoto_Radwimps.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ふたりごと",
+      "artist": "kobasolo/春茶",
+      "has_synced": true,
+      "path": "select/14_ふたりごと_kobasolo_春茶.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ふたりごと",
+      "artist": "iri",
+      "has_synced": false,
+      "path": "select/pl_01_ふたりごと_iri.txt"
+    }
+  ]
+}
